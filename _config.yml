@@ -1,0 +1,6 @@
+theme: jekyll-theme-slate
+title: The Babble App
+description: Babble, adding privacy to your online presence.
+show_downloads: false
+github:
+  is_project_page: false
